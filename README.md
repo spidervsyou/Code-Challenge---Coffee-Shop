@@ -1,4 +1,5 @@
 Coffee Shop Management System
+
 This project implements a Coffee Shop Management System using Object-Oriented Programming (OOP) concepts in Python. The system models the relationships between Customers, Coffees, and Orders in a many-to-many setup. A Customer can order multiple Coffees, and each Coffee can be ordered by multiple Customers.
 
 Features
